@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abdulrhman Alshoubaki</h1>
-<h3 align="center">Highly motivated Android developer with 4 years of experience in Android Studio and a background in Computer Systems and Networks Engineering (BAU University). Proven ability to design and develop diverse Android applications with unique functionalities. Possesses additional experience with the Flutter development environment.</h3>
+<h3 align="center">As a dedicated and hard-working individual, I possess exceptional communication abilities 
+that allow me to effectively collaborate with my team. My problem-solving knowledge, 
+combined with my ability to learn and adapt, makes me an asset to any organization. I am 
+constantly seeking new opportunities to challenge myself and grow professionally, and I am 
+confident in my ability to positively influence my colleagues and contribute to the success of 
+my team. </h3>
 
 - I have work on Social Media Application [Socialate](https://github.com/abdulrhman225/PostApp-With-Kotlin)
 
