@@ -7,8 +7,6 @@
 
 - I have worked on AI Application using Gemini [AI](https://github.com/abdulrhman225/AI_Application)
 
-- 💬 Ask me about **Java, Kotlin**
-
 - 📫 How to reach me **abdulrhmanalshoubaki@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
