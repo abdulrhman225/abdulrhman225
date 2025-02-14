@@ -5,7 +5,7 @@
 
 - I have work on Food Serve Application [Fooduct](https://github.com/abdulrhman225/Fooduct)
 
-- I have worked on AI Application using Gemini [AI](https://github.com/abdulrhman225/AI_Application)
+- I have worked on AI Application using Gemini [Chat With AI](https://github.com/abdulrhman225/Chat-With-AI)
 
 - 📫 How to reach me **abdulrhmanalshoubaki@gmail.com**
 
