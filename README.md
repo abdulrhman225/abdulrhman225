@@ -12,7 +12,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abdulrhman alshoubaki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulrhman alshoubaki" height="30" width="40" /></a>
-<a href="https://fb.com/عبد الرحمن الشوبكي" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="عبد الرحمن الشوبكي" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
